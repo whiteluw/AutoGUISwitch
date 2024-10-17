@@ -1,0 +1,18 @@
+# 功能设置：
+  # 目标窗口标题
+  window_title: ""
+
+  # 是否在触发后自动暂停程序
+  autopause: false
+
+# 性能设置：
+# 更快的检测速度意味着更差的性能
+  # 视频分辨率设置
+  video_resolution:
+    # 视频宽度
+    width: 640
+    # 视频高度
+    height: 480
+
+  # 检测间隔，单位为帧，越低越快
+  detection_interval: 5
